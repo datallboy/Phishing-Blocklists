@@ -16,3 +16,4 @@ discord-app.net
 freenitros.ru
 discord-auth.com
 discocrd.gift
+discordd.gift
